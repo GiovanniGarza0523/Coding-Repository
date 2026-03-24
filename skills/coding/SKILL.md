@@ -1,3 +1,8 @@
+---
+name: coding-conventions
+description: Language conventions and patterns for Python, JavaScript/TypeScript, and general coding best practices. Use this skill when writing or reviewing code to ensure consistent style, type safety, and clean design.
+---
+
 # Coding Skills
 
 ## Python
