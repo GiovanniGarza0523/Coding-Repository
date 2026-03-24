@@ -1,0 +1,4 @@
+{
+  "name": "Coding-Repository",
+  "postCreateCommand": "bash bin/install-skills"
+}
