@@ -1,3 +1,8 @@
+---
+name: bash-best-practices
+description: Bash scripting best practices and reusable patterns. Use this skill when writing or reviewing shell scripts to ensure safety, correctness, and portability.
+---
+
 # Shell Skills
 
 ## Bash Best Practices

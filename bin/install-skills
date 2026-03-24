@@ -10,6 +10,11 @@
 #   1. Clone or update the skills repo to  ~/.local/share/claude-skills
 #   2. Sync the skills/ directory to       ~/.claude/skills/
 #   3. Print a summary of what changed.
+#
+# Skills format:
+#   Each skill lives in its own sub-folder under skills/ and must contain a
+#   SKILL.md file with YAML frontmatter (name, description) following the
+#   Agent Skills standard: https://github.com/anthropics/skills
 
 set -euo pipefail
 

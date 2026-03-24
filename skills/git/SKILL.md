@@ -1,3 +1,8 @@
+---
+name: git-workflow
+description: Git workflow conventions including Conventional Commits formatting, branching strategy, and PR practices. Use this skill when creating commits, branches, or pull requests.
+---
+
 # Git Skills
 
 ## Commit Conventions (Conventional Commits)
