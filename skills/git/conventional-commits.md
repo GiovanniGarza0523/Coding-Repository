@@ -9,7 +9,7 @@ Format: `<type>(<scope>): <short summary>`
 | `feat`     | A new feature                                |
 | `fix`      | A bug fix                                    |
 | `docs`     | Documentation only changes                   |
-| `style`    | Formatting, missing semi-colons, etc.        |
+| `style`    | Formatting, missing semicolons, etc.         |
 | `refactor` | Code change that is neither fix nor feature  |
 | `test`     | Adding or correcting tests                   |
 | `chore`    | Build process or tooling changes             |

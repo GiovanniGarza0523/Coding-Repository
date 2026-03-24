@@ -42,9 +42,9 @@ find ~/.claude/skills -type f | sort
 
 ```
 skills/
-├── coding/   — language conventions and patterns
-├── git/      — git workflow and commit conventions
-└── shell/    — bash best practices and snippets
+├── coding/   - language conventions and patterns
+├── git/      - git workflow and commit conventions
+└── shell/    - bash best practices and snippets
 ```
 
 ### Automatic installation in Codespaces
